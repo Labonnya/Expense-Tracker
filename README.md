@@ -1,4 +1,4 @@
-![Screenshot (234)](https://github.com/Labonnya/Expense-Tracker/assets/75426550/30fc6535-c972-468a-804f-57a774242f74)
+
 # Expense-Tracker
 
 Our project aims to provide a financial management solution for users who tend to spend money recklessly. It allows users to manage their expenses effectively and encourages them to save money for emergencies or specific goals.
@@ -12,6 +12,12 @@ What sets our application apart from others in the market is its unique graph pr
 In terms of security, the application ensures that all financial data, including inputs and remaining balances, are kept strictly between the user and the application, ensuring user privacy.
 
 In summary, our financial management application provides a comprehensive solution for users to control their spending habits, save for future needs, and manage their finances efficiently and securely.
+
+**Video demonstration:**
+
+https://drive.google.com/file/d/1B8cj67b2yOaUPkL78g2MzZua4z9jiAh6/view?usp=sharing
+
+**Screenshots:**
 
 ![Screenshot (208)](https://github.com/Labonnya/Expense-Tracker/assets/75426550/3c4776bf-68d9-47fa-ad89-d892f98ca280)
 ![Screenshot (210)](https://github.com/Labonnya/Expense-Tracker/assets/75426550/2f1602ea-af46-4fb9-bb08-86a0a16e1333)
