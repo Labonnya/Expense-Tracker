@@ -13,11 +13,11 @@ In terms of security, the application ensures that all financial data, including
 
 In summary, our financial management application provides a comprehensive solution for users to control their spending habits, save for future needs, and manage their finances efficiently and securely.
 
-**Video demonstration:**
+# Video demonstration
 
 https://drive.google.com/file/d/1B8cj67b2yOaUPkL78g2MzZua4z9jiAh6/view?usp=sharing
 
-**Screenshots:**
+# Screenshots
 
 ![Screenshot (208)](https://github.com/Labonnya/Expense-Tracker/assets/75426550/3c4776bf-68d9-47fa-ad89-d892f98ca280)
 ![Screenshot (210)](https://github.com/Labonnya/Expense-Tracker/assets/75426550/2f1602ea-af46-4fb9-bb08-86a0a16e1333)
